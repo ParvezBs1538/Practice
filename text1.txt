@@ -4,3 +4,4 @@ change from remote repository
 i am from feature branch
 another change form feature branch
 feature branch in local repository
+alignment fixed for issue
